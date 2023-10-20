@@ -65,5 +65,5 @@ return result
 #2. An educator wants to engage learners of an ECD centre for special needs learners and teach them in a way that is entertaining and fun.
 #what programme can she use for this?
 
-#3. Picture yourself as a librarian managing a busy library.What program can you use to catalog books, track borrowing and provide an easy way for all library membere to access reasourses?
+#3. Picture yourself as a librarian managing a busy library.What program can you use to catalog books, track borrowing and provide an easy way for all library members to access reasourses?
 
